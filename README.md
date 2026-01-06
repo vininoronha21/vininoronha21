@@ -4,7 +4,7 @@
   </a>
 </div>
 
-  <img height="300" src="img_atualizado.gif"  />
+  <img height="200" src="img_atualizado.gif"  />
 </div>
 
 ###
