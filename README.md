@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Prazer, Vinícius!<br><br>Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade de Informática e Administração Paulista (FIAP). Moro em São Paulo e estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. Sempre aberto a colaborações e oportunidades de crescimento! 🚀</p>
+<p align="left">Prazer, Vinícius!<br><br>Sou um estudante de Análise e Desenvolvimento de Sistemas pela Faculdade de Informática e Administração Paulista (FIAP). Moro em São Paulo e estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. Sempre aberto a colaborações e oportunidades de crescimento! 🚀</p>
 
 ###
 
@@ -65,7 +65,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
