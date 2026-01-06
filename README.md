@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="file:///Users/viniciusforte/Desktop/banner_linkedin_1.gif"  />
+  <img height="150" src="img.gif"  />
 </div>
 
 ###
