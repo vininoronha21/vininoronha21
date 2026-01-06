@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
   </a>
 </div>
-
+<div style="text-align: center;">
   <img height="200" src="img_atualizado.gif"  />
 </div>
 
