@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Prazer, Vinícius!<br><br>Sou um estudante de Análise e Desenvolvimento de Sistemas pela Faculdade de Informática e Administração Paulista (FIAP). Moro em São Paulo e estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. Sempre aberto a colaborações e oportunidades de crescimento! 🚀</p>
+<p align="left">Nice to meet you, I'm Vinicius!<br><br>System Analysis and Development student at FIAP, based in São Paulo, Brazil. Passionate about technology, continuous learning, and building innovative solutions. Always learning, exploring new technologies, and looking for new challenges🚀</p>
 
 ###
 
