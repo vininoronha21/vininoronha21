@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Nice to meet you, I'm Vinicius!<br><br>System Analysis and Development student at FIAP, based in São Paulo, Brazil. Passionate about technology, continuous learning, and building innovative solutions. Always learning, exploring new technologies, and looking for new challenges🚀</p>
+<p align="left">Nice to meet you, I'm Vinicius!<br><br>System Analysis and Development student at FIAP, based in São Paulo, Brazil. Passionate about technology, continuous learning, and building innovative solutions. Always learning, exploring new technologies, and looking for new challenges 🚀</p>
 
 ###
 
